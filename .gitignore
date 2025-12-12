@@ -1,0 +1,26 @@
+```
+# Dependencies
+.dart_tool/
+.packages
+.pub/
+
+# Build outputs
+build/
+*.g.dart
+
+# Environment
+.env
+.env.local
+*.env.*
+
+# Logs
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.swp
+```
